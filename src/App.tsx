@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <p className="text-3xl font-bold underline text-pink-600">Hello</p>
+      <p className="text-3xl underline text-pink-600">Hello</p>
     </>
   );
 }
